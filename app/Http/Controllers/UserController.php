@@ -49,12 +49,16 @@ class UserController extends Controller
     }
 
     public function user(Request $request){
-        $data['user']=User::all();
+        $data['user']=user::all();
         $data['product']= product::all();
         $data['total_user']=$data['user']->count();
         //  dd($data['product']);
         return view('user', $data);
     }
+    // public function user()
+    // {
+        
+    // }
 
     
 }

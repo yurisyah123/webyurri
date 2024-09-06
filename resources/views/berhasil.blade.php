@@ -23,7 +23,7 @@
         }
     </style>
 </head>
-<body style="background-color: rgb(118, 184, 243)">
+<body style="background-color:#EDF1F6;">
     <div class="container">
         <div class="confirmation-message">
             <h1>Checkout Berhasil!</h1>
@@ -33,12 +33,12 @@
         <div class="order-summary">
             <h4>Ringkasan Pesanan</h4>
             <ul class="list-group">
-                <li class="list-group-item">Nama Produk <span class="float-right">Alat makan bayi</span></li>
-                <li class="list-group-item">Harga <span class="float-right">90000</span></li>
+                <li class="list-group-item">Nama Produk <span class="float-right">lampu</span></li>
+                <li class="list-group-item">Harga <span class="float-right">$35.00</span></li>
                 <li class="list-group-item">Metode Pembayaran <span class="float-right">COD</span></li>
-                <li class="list-group-item">Pengiriman<span class="float-right">15000</span></li>
-                <li class="list-group-item">Alamat dan Kota<span class="float-right">cicarurulang Tasikmalaya</span></li>
-                <li class="list-group-item list-group-item-secondary">Total <span class="float-right">105000</span></li>
+                <li class="list-group-item">Pengiriman<span class="float-right">$5.00</span></li>
+                <li class="list-group-item">Alamat dan Kota<span class="float-right">Tasikmalaya</span></li>
+                <li class="list-group-item list-group-item-secondary">Total <span class="float-right">$40.00</span></li>
             </ul>
         </div>
 

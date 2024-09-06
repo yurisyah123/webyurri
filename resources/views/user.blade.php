@@ -34,9 +34,9 @@
     </nav>
     <div class="row">
     <div class="p-5 bg-image" style="background-color:#D9B99F; height:400px; margin-right:70px; margin-left:70px; ">
-    <h2 style="margin-top: 150px; color:white; margin-left:100px; ">Giorgetti Denny</h2>
-    <h3 style=" color:white; margin-left:150px; ">Armchair and tool</h3>
-    <h7 style="margin-top:20%; margin-left:90px; color:white;">Lorem ipsum dolor sit, amet consectetur adipisicing elit.adipisicing elit. Expedita iste quidem</h7>
+    <h2 style="margin-top: 150px; color:black; margin-left:100px; ">Giorgetti Denny</h2>
+    <h3 style=" color:black; margin-left:150px; ">Armchair and tool</h3>
+    <h7 style="margin-top:20%; margin-left:90px; color:black;">Lorem ipsum dolor sit, amet consectetur adipisicing elit.adipisicing elit. Expedita iste quidem</h7>
        <img style="margin-top:-290px; margin-left:600px; width:25%;" src="{{asset('storage/foto/download__3_-removebg-preview.png')}}" alt="">
         </div>
     </div>
